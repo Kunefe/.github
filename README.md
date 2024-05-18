@@ -1,2 +1,0 @@
-# .github
-Information about Kunefe

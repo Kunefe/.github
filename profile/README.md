@@ -67,7 +67,7 @@ REGISTERED_USER:
 
 - [@fxidirzade](https://github.com/fxidirzade)
 
-- [@TuMinthe](https://github.com/TuMinthe)
+- [@kayaahatice](https://github.com/kayaahatice)
 
 - [@busraygul](https://github.com/busraygul)
 
